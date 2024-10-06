@@ -11,10 +11,10 @@ const DeliveryAddress = () => {
             <div className='border-b border-gray-300 py-2'>
                 <div className='flex justify-between'>
                     <h1 className='font-bold text-lg'>1. Delivery Address</h1>
-                    <p className='text-sm'>Surendra Kumar <br />
+                    <p className='text-sm'>Deepak Kumar <br />
                         Cozy Apartment <br />
-                        Bhutany Colony <br />
-                        JALANDHAR, PUNJAB 144411 <br />
+                        near peerless clinic <br />
+                        Bowbazar Kolkata 700012 <br />
                         Add delivery instructions</p>
                 </div>
             </div>
